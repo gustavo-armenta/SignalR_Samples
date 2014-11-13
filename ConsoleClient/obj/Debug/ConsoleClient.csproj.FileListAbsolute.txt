@@ -1,0 +1,9 @@
+C:\Users\gustavoa\Source\Repos\Samples\Samples_2.1.0\ConsoleClient\bin\Debug\ConsoleClient.exe.config
+C:\Users\gustavoa\Source\Repos\Samples\Samples_2.1.0\ConsoleClient\bin\Debug\ConsoleClient.exe
+C:\Users\gustavoa\Source\Repos\Samples\Samples_2.1.0\ConsoleClient\bin\Debug\ConsoleClient.pdb
+C:\Users\gustavoa\Source\Repos\Samples\Samples_2.1.0\ConsoleClient\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+C:\Users\gustavoa\Source\Repos\Samples\Samples_2.1.0\ConsoleClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\gustavoa\Source\Repos\Samples\Samples_2.1.0\ConsoleClient\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+C:\Users\gustavoa\Source\Repos\Samples\Samples_2.1.0\ConsoleClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\gustavoa\Source\Repos\Samples\Samples_2.1.0\ConsoleClient\obj\Debug\ConsoleClient.exe
+C:\Users\gustavoa\Source\Repos\Samples\Samples_2.1.0\ConsoleClient\obj\Debug\ConsoleClient.pdb
